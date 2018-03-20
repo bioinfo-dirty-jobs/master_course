@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-## Welcome to my tutorial          
-## [ Course 22-23 march 2018](https://bioinfo-dirty-jobs.github.io/course_2/)
+## Welcome to my Tutorial on RNA-Seq and Somatic-seq          
+## [ Course 22-23 march 2018](https://bioinfo-dirty-jobs.github.io/master_course/)
 
 ___
 

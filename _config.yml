@@ -4,15 +4,15 @@
 permalink:           pretty
 
 # Setup
-title:               Training Course on Next generation sequencing
-tagline:             Training Course on Next generation sequencing
+title:               "Training on bioinformaics: RNA-Seq and Somatic-Seq"
+tagline:             "Training on bioinformaics: RNA-Seq, Somatc-seq"
 description:         NGS training
-url:                 'https://bioinfo-dirty-jobs.github.io/NGSBASE/'
-baseurl:             '/NGSBASE/'
+url:                 'https://bioinfo-dirty-jobs.github.io/master_course/'
+baseurl:             ''
 twitter_username:
 github_username:  bioinfo-dirty-jobs
-pages_url: https://bioinfo-dirty-jobs.github.io/NGSBASE
-github_url: https://bioinfo-dirty-jobs.github.io/NGSBASE
+pages_url: https://bioinfo-dirty-jobs.github.io/master_course
+github_url: https://bioinfo-dirty-jobs.github.io/master_course
 
 # Custom vars
 version:             2.0
