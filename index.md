@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Welcome to my tutorial          
-## [Training on Next generation sequencing ](https://bioinfo-dirty-jobs.github.io/NGSBASE/)
+## [ Course 22-23 march 2018](https://bioinfo-dirty-jobs.github.io/course_2/)
 
 ___
 
